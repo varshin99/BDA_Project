@@ -1,0 +1,2 @@
+streamlit==1.10.0  # Or the latest version compatible with your app
+pyspark==3.2.1     # Match the version you used for developing your app
